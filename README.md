@@ -52,4 +52,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notkirtann&" alt="notkirtann" /></p> 
 
 ## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
