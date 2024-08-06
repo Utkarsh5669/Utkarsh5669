@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utkarsh5669](https://github.com/Utkarsh5669)
 
-- 💬 Ask me about **MERN, DSA and JAVA**
+- 💬 Ask me about  **MERN, DSA and JAVA**
 
 - 📫 How to reach me **utkarsharora6387555198@gmail.com** & **https://linktr.ee/utkarsh_lm_**
 
-- ⚡ Fun fact **YOUR CELLS CHANGE WHEN YOU LEARN STUFF.**
+- ⚡ **Fun fact**   YOUR CELLS CHANGE WHEN YOU LEARN STUFF.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
