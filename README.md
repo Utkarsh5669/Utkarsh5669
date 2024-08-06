@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN, DSA and JAVA**
 
-- 📫 How to reach me **utkarsharora6387555198@gmail.com**
+- 📫 How to reach me **utkarsharora6387555198@gmail.com** & **https://linktr.ee/utkarsh_lm_**
 
 - ⚡ Fun fact **YOUR CELLS CHANGE WHEN YOU LEARN STUFF.**
 
