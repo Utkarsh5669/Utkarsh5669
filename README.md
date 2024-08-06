@@ -1,5 +1,7 @@
+[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif)]
 <h1 align="center">Hi 👋, I'm Utkarsh Arora</h1>
 <h3 align="center">A passionate Web Developer and Enthusiastic DSA Practitioner upgrading the skills on daily basis</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh5669&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh5669" /> </p>
 
@@ -33,3 +35,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh5669&show_icons=true&locale=en&layout=compact" alt="utkarsh5669" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh5669&" alt="utkarsh5669" /></p>
+
+## ✍️ Random Dev Quote:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
